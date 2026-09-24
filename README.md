@@ -286,9 +286,15 @@ Main libraries used:
 * Test additional feature selection strategies
 * Add experiment tracking with MLflow or Weights & Biases
 
+## Contact
+
+- **GitHub:** https://github.com/arefbakali
+- **LinkedIn:** https://www.linkedin.com/in/aref-bak-ali/
+- **Email:** aref.bak-ali@dauphine.eu
+- **Portfolio:** https://portfolio-aref.vercel.app/
+
 ## Author
 
-**Aref Bak Ali**<br>
-AI, Data Science & Agentic AI Student<br>
-GitHub: https://github.com/arefbakali<br>
-LinkedIn: https://linkedin.com/in/aref-bak-ali/
+**Aref Bak Ali**  
+AI, Data Science & Agentic AI Student  
+Université Paris Dauphine-PSL
